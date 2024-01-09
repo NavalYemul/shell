@@ -17,17 +17,8 @@ print("Run Python")
 
 # COMMAND ----------
 
-
-
-# COMMAND ----------
-
 # MAGIC %sql
 # MAGIC -- select "RUN SQL"
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC # Header
 
 # COMMAND ----------
 
@@ -38,4 +29,4 @@ print("Run Python")
 
 # COMMAND ----------
 
-
+print("Run Python and pyspark")
