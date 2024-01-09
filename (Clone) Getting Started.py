@@ -11,4 +11,4 @@ print("Run Python")
 
 # COMMAND ----------
 
-
+Print("40")
